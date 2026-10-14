@@ -43,7 +43,7 @@ Centralized NAT configuration was attempted but has not yet been fully validated
 
 ## Project Files
 
-- `packet-tracer/`: Packet Tracer project file.
+- `project-folder/`: Packet Tracer project file.
 - `screenshots/`: Evidence of network configuration and testing.
 - `configurations/`: Device configuration excerpts.
 - `documentation/`: Addressing plan, design notes, and test results.
